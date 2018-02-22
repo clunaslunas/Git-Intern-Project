@@ -3,7 +3,7 @@ Intern Git Project
 This repo is designed to get interns familiar with using git at the terminal. The project can be built using Node and NPM. Although that is beyond the scope of this tutorial, once you pull this repo and change the index.html and push you have completed the tutorial successfully. 
 
 ## Getting Started
-
+https://docs.google.com/document/d/1EHXrtE6mynPa6PXRnITp46BGZ8_ew2kijLR4Iq7BbwY/edit?usp=sharing
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
