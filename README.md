@@ -1,6 +1,6 @@
 Intern Git Project
 
-This repo is designed to get interns familiar with using git at the terminal. The project can be built using Node and NPM. Although that is beyond the scope of this tutorial, once you pull this repo andchange the index.html and push you have completed the tutorial successfully. 
+This repo is designed to get interns familiar with using git at the terminal. The project can be built using Node and NPM. Although that is beyond the scope of this tutorial, once you pull this repo and change the index.html and push you have completed the tutorial successfully. 
 
 ## Getting Started
 
